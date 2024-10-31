@@ -6,4 +6,5 @@ function m.time() end
 function m.monotonic() end
 ---@return integer nsec
 function m.thread() end
+
 return m

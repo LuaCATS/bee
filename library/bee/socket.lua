@@ -69,7 +69,6 @@ function ownership_fd:detach() end
 ---@return boolean, string? error
 function ownership_fd:close() end
 
-
 ---@class bee.net.endpoint
 local ep = {}
 

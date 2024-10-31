@@ -1,6 +1,5 @@
 ---@meta
 
-
 ---@class bee.channel.box
 local box = {}
 
@@ -10,7 +9,6 @@ function box.pop() end
 
 ---@return lightuserdata
 function box.fd() end
-
 
 local m = {}
 
